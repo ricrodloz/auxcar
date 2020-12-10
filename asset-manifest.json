@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/auxcar/static/css/main.d708706e.chunk.css",
+    "main.js": "/auxcar/static/js/main.365c7893.chunk.js",
+    "main.js.map": "/auxcar/static/js/main.365c7893.chunk.js.map",
+    "runtime-main.js": "/auxcar/static/js/runtime-main.3a6a84b8.js",
+    "runtime-main.js.map": "/auxcar/static/js/runtime-main.3a6a84b8.js.map",
+    "static/css/2.2ce0d9b2.chunk.css": "/auxcar/static/css/2.2ce0d9b2.chunk.css",
+    "static/js/2.a6df2798.chunk.js": "/auxcar/static/js/2.a6df2798.chunk.js",
+    "static/js/2.a6df2798.chunk.js.map": "/auxcar/static/js/2.a6df2798.chunk.js.map",
+    "index.html": "/auxcar/index.html",
+    "precache-manifest.3623f6a587848f807392f879769012de.js": "/auxcar/precache-manifest.3623f6a587848f807392f879769012de.js",
+    "service-worker.js": "/auxcar/service-worker.js",
+    "static/css/2.2ce0d9b2.chunk.css.map": "/auxcar/static/css/2.2ce0d9b2.chunk.css.map",
+    "static/css/main.d708706e.chunk.css.map": "/auxcar/static/css/main.d708706e.chunk.css.map",
+    "static/js/2.a6df2798.chunk.js.LICENSE.txt": "/auxcar/static/js/2.a6df2798.chunk.js.LICENSE.txt",
+    "static/media/background-index.jpeg": "/auxcar/static/media/background-index.faab7a05.jpeg",
+    "static/media/font-awesome.min.css": "/auxcar/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/location.png": "/auxcar/static/media/location.6ad69393.png",
+    "static/media/logo-white.png": "/auxcar/static/media/logo-white.3110f9ee.png",
+    "static/media/nucleo.css": "/auxcar/static/media/nucleo-icons.f82ec6ba.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a6a84b8.js",
+    "static/css/2.2ce0d9b2.chunk.css",
+    "static/js/2.a6df2798.chunk.js",
+    "static/css/main.d708706e.chunk.css",
+    "static/js/main.365c7893.chunk.js"
+  ]
+}
